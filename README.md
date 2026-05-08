@@ -52,7 +52,12 @@ The script will increment the number in [`number.txt`](number.txt) and commit th
 By running this, you'll be able to get a fancy streak on your GitHub profile and get a job!
 
 ![How to get a job](get_a_job.jpg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fericsherrill-made4net%2Ffancy_job.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fericsherrill-made4net%2Ffancy_job?ref=badge_shield)
 
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fericsherrill-made4net%2Ffancy_job.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fericsherrill-made4net%2Ffancy_job?ref=badge_large)
